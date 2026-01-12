@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1>Hi, I'm Nabil! <br/><a href="https://github.com/nabilmuflif">Mobile Developer</a>, <a href="https://www.linkedin.com/in/nabilmuflif/">Data Enthusiast</a></h1>
 
-<!--
-**nabilmuflif/nabilmuflif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Software Development Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Mobile Application (Android)</b>
+  - [Temu Skill - Service Marketplace App](https://github.com/nabilmuflif/TemuSkill)
+    - <i>Built with Android Studio (Java) & Firebase. Connects users with local service providers securely.</i>
+  - [Enygma - Anonymous Social App](https://github.com/nabilmuflif/proyek)
+    - <i>Java-based mobile app enabling anonymous interactions with privacy safeguards.</i>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Web Development</b>
+  - [Eventix - Ticket Booking System](https://github.com/nabilmuflif/Eventix)
+    - <i>University coursework project built with Laravel. Features event scheduling, CRUD, and ordering system.</i>
+  - [HydroHome - Hydroponic Guide](https://github.com/nabilmuflif/FinalWeb25)
+    - <i>Web application designed to guide beginners in starting hydroponic gardening at home.</i>
+
+- <b>Data Visualization</b>
+  - [Corporate Data Dashboard]
+    - <i>Visualized raw company data (Sales & KPIs) using Tableau and Power BI for stakeholder decision-making.</i>
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Nabil Malape | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Nabil Malape | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+<br />
+
+[linkedin]: https://www.linkedin.com/in/nabilmuflif/
+[email]: mailto:nabilmuflif2505@gmail.com

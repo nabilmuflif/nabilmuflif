@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nabil! <br/><a href="https://github.com/nabilmuflif">Mobile Developer</a>, <a href="https://www.linkedin.com/in/nabilmuflif/">Data Enthusiast</a></h1>
+<h1>Hi, I'm Nabil! <br/><a href="https://github.com/nabilmuflif">Mobile Developer</a>, <a href="https://www.linkedin.com/in/nabil-muflif-malape-aab068391/">Data Enthusiast</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -24,5 +24,5 @@
 [<img align="left" alt="Nabil Malape | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 <br />
 
-[linkedin]: https://www.linkedin.com/in/nabilmuflif/
+[linkedin]: https://www.linkedin.com/in/nabil-muflif-malape-aab068391/
 [email]: mailto:nabilmuflif2505@gmail.com
